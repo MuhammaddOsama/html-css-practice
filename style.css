@@ -1,0 +1,72 @@
+body{
+    background: lightyellow;
+}
+h1{
+    color:blue; text-align: center;
+}
+h3{
+    color: black;
+    text-align: center;
+}
+form{
+    width: 30%;
+    background-color: white;
+     border:2px solid blue;
+     border-radius:7px ;
+     display: inline-block; 
+     margin-left: 38%;
+     margin-top: 5%;
+}
+#pass{
+    border:2px solid gray ;
+    border-radius: 5px;
+    height: 40px;
+    border-color: blue;
+    margin-left: 70px;
+    width: 250px;
+}
+:hover#pass{
+    border: 3px solid blue;
+}
+#text{
+    border: 2px solid gray;
+    border-radius: 5px;
+    height: 40px;
+    border-color: blue;
+    margin-left: 70px;
+    width: 250px;
+}
+:hover#text{
+    border: 3px solid blue;
+}
+#btn{
+    width: 260px;
+    height: 50px;
+    background-color: blue;
+    border:2px solid white;
+    border-radius: 5px;
+    color: white;
+    margin-left: 70px;
+}
+:hover#btn{
+    border: 4px solid blue;
+}
+a{
+    margin-left: 150px;
+}
+h4{
+    margin-left: 70px;
+}
+#btn1{
+    width: 260px;
+    height: 50px;
+    background-color:green;
+    border:2px solid white;
+    border-radius: 5px;
+    color: white;
+    margin-left: 70px;
+    margin-bottom: 10px;
+}
+:hover#btn1{
+    border: 4px solid green;
+}
